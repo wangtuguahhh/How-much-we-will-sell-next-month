@@ -8,7 +8,7 @@ After stepping into the data science world, I heard one world many times, time-s
 An accurate model to predict sales for up-coming months is crucial to a grocery store as you can image. It can help reduce issues related to overstocking and improve customer satisfaction, which are key to the success of any retail store. With sales data from Corporación Favorita, a large Ecuadorian-based grocery retailer, during the time period from Jan 2013 to Aug 2017, how much were sold in the rest months in 2017 are the questions to answer by competitors in this challenge.      
 ## 🎯 Objectives:
 * Create a model to accurately predict sales of up-coming months
-* Answer the question: What are the factors impacting grocery sales most? 
+* Answer the question: What factors impacting the grocery sales most? 
 ## 🛠 Tools:
 * Python for:
   - time-series data analysis
