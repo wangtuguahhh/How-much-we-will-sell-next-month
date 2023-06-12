@@ -15,9 +15,10 @@ An accurate model to predict sales for up-coming months is crucial to a grocery 
   - EDA of sales data
   - seasonal pattern exploration
   - indicator generations
-  - machine learning model building and results evaluation
+  - machine learning model building 
+  - prediction evaluation
 * A machine learning hybrid model combines:
-  - Linear regression
+  - Linear Regression
   - XGBRegressor
 ## 📚 Data:
 The data is published on [Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
