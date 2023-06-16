@@ -22,3 +22,5 @@ An accurate model to predict sales for up-coming months is crucial to a grocery 
   - XGBRegressor
 ## 📚 Data:
 The data is published on [Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
+## Posted:
+* Kaggle: [Store Sales Time Series Forecasting - Hybrid Model](https://www.kaggle.com/code/wangtugua/store-sales-time-series-forecasting-hybrid-model)
